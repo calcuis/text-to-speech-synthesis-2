@@ -1,0 +1,9 @@
+hydra-core
+lightning
+natsort
+kui
+loralib
+loguru
+tiktoken
+torchaudio
+torch
